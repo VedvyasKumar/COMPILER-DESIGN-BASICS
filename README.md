@@ -86,6 +86,10 @@ There is no support for advanced error messages with line/character positions.
 Conclusion
 This C++ program is a compact and clear example of an arithmetic expression evaluator. It effectively introduces key concepts in parsing and compiler design such as grammar rules, operator precedence, and recursive descent parsing. While it has room for further enhancements, it already provides a functional and educational foundation for evaluating mathematical expressions programmatically. It is especially useful for students learning how interpreters and compilers process expressions and how to implement basic parsing techniques in a structured way.
 
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/e9546414-2895-4a88-b848-aecd2621f192)
+
 
 
 
