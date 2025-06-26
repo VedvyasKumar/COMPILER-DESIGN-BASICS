@@ -1,5 +1,17 @@
 # COMPILER-DESIGN-BASICS
 
+COMPANY NAME:CODETECH IT SOLUTION
+
+NAME: VEDVYAS KUMAR
+
+INTERN ID:CT04DF160
+
+DOMAIN:C++
+
+MENTOR:NEELA SANTOSH
+
+#DESCRIPTION
+
 The provided C++ program is a simple yet effective implementation of a mini arithmetic expression parser and evaluator. It allows the user to input a mathematical expression using basic arithmetic operations—addition (+), subtraction (-), multiplication (*), and division (/)—and computes the correct result by following proper order of operations and respecting parentheses. This program demonstrates how to write a recursive descent parser, which is a foundational concept in compiler design and programming language interpreters.
 
 Purpose and Functionality
